@@ -1,3 +1,0 @@
-This is my repo!
-It contains a python code.
-I like computers.
